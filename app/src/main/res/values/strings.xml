@@ -63,73 +63,73 @@
   <string name="disable_gms_hint">Clear the current Google service environment? Google service data will be cleared.</string>
   <string name="no_gms">Currently, there is no Google service environment on mobile phones.</string>
 
-  <string name="about">关于我们</string>
-  <string name="PRIVACY_POLICY_DLG_USER_AGREEMENT">《用户协议》</string>
-  <string name="PRIVACY_POLICY_DLG_PRIVACY_POLICY">《隐私政策》</string>
-  <string name="PRIVACY_POLICY_DLG_FIRST_CONTENT_WITH_LINK">在你使用秘盒空间前，请认真阅读并了解%1$s和%2$s，点击同意即表示你已阅读并同意全部条款。</string>
+  <string name="about">About Us</string>
+  <string name="PRIVACY_POLICY_DLG_USER_AGREEMENT">User Agreement</string>
+  <string name="PRIVACY_POLICY_DLG_PRIVACY_POLICY">Privacy Policy</string>
+  <string name="PRIVACY_POLICY_DLG_FIRST_CONTENT_WITH_LINK">Before using Sandbox, please carefully read and understand the %1$s and %2$s. Clicking agree means you have read and agreed to all terms.</string>
 
-  <string name="password_setting">密码设置</string>
-  <string name="password_setting_btn_text">设置密码</string>
-  <string name="password_setting_change">更换密码</string>
-  <string name="password_setting_tip">只需简单设置4位数密码，就可以开启专属自己的私密空间。设置完成后，每次进入应用需要输入密码验证，保证您的隐私安全。</string>
-  <string name="input_password">请输入4位数密码</string>
-  <string name="input_password_tip">启动APP时设置密码开启自己的专属空间</string>
-  <string name="input_password_again">再次输入4位数密码</string>
-  <string name="input_password_error">两次输入的密码不一致，请重新输入</string>
-  <string name="input_password_success">密码设置成功，现在输入密码继续体验吧</string>
-  <string name="change_app_icon">替换桌面图标</string>
-  <string name="change_app_icon_tip">设置【应用名称】在手机桌面展示的图标和名称，加一层伪装更安全</string>
-  <string name="change_app_icon_toast">更换图标前请先设置密码</string>
+  <string name="password_setting">Password Settings</string>
+  <string name="password_setting_btn_text">Set Password</string>
+  <string name="password_setting_change">Change Password</string>
+  <string name="password_setting_tip">Simply set a 4-digit password to create your own private space. After setup, you'll need to enter the password each time you enter the app to ensure your privacy.</string>
+  <string name="input_password">Please enter a 4-digit password</string>
+  <string name="input_password_tip">Set a password when launching the app to create your private space</string>
+  <string name="input_password_again">Please enter the 4-digit password again</string>
+  <string name="input_password_error">Passwords do not match, please try again</string>
+  <string name="input_password_success">Password set successfully, please enter the password to continue</string>
+  <string name="change_app_icon">Change Desktop Icon</string>
+  <string name="change_app_icon_tip">Set the [app name] icon and name displayed on your phone's desktop for an extra layer of security</string>
+  <string name="change_app_icon_toast">Please set a password before changing the icon</string>
 
-  <string name="add_app">添加应用</string>
-  <string name="uninstall_cancel">暂不</string>
-  <string name="uninstall_confirm">卸载</string>
+  <string name="add_app">Add App</string>
+  <string name="uninstall_cancel">Not Now</string>
+  <string name="uninstall_confirm">Uninstall</string>
 
-  <string name="clear_cancel">暂不</string>
-  <string name="clear_confirm">清除</string>
+  <string name="clear_cancel">Not Now</string>
+  <string name="clear_confirm">Clear</string>
 
-  <string name="stop_app_cancel">暂不</string>
-  <string name="stop_app_confirm">停止运行</string>
+  <string name="stop_app_cancel">Not Now</string>
+  <string name="stop_app_confirm">Stop Running</string>
 
-  <string name="install_description">是否将%s导入，进行隐藏/双开</string>
-  <string name="install_concel">取消</string>
-  <string name="install_confirm">确认</string>
+  <string name="install_description">Do you want to import %s for hiding/duplication?</string>
+  <string name="install_concel">Cancel</string>
+  <string name="install_confirm">Confirm</string>
 
-  <string name="hide_guide_title_1">如何隐藏应用 第一步导入</string>
-  <string name="hide_guide_title_2">如何隐藏应用 第二步启动</string>
-  <string name="hide_guide_title_3">如何隐藏应用 第三步卸载</string>
-  <string name="hide_guide_description_1">点击添加应用，将需要隐藏的应用导入秘盒空间</string>
-  <string name="hide_guide_description_2">在秘盒空间启动导入应用的副本 \n确保其可以正常工作</string>
-  <string name="hide_guide_description_3">从桌面中卸载需要隐藏的应用以完成隐藏</string>
+  <string name="hide_guide_title_1">How to Hide Apps - Step 1: Import</string>
+  <string name="hide_guide_title_2">How to Hide Apps - Step 2: Launch</string>
+  <string name="hide_guide_title_3">How to Hide Apps - Step 3: Uninstall</string>
+  <string name="hide_guide_description_1">Click Add App to import the app you want to hide into Sandbox</string>
+  <string name="hide_guide_description_2">Launch the imported app's copy in Sandbox \nEnsure it works properly</string>
+  <string name="hide_guide_description_3">Uninstall the app you want to hide from your desktop to complete the hiding process</string>
 
-  <string name="logout_popup_title">再次确认是否注销本账户</string>
-  <string name="logout_popup_description">注销后您在本账号上的所有数据和特权将永久消失，请谨慎操作！</string>
-  <string name="logout_popup_confirm">确认注销</string>
-  <string name="logout_popup_cancel">取消</string>
+  <string name="logout_popup_title">Confirm Account Deletion</string>
+  <string name="logout_popup_description">All your data and privileges associated with this account will be permanently deleted. Please proceed with caution!</string>
+  <string name="logout_popup_confirm">Confirm Deletion</string>
+  <string name="logout_popup_cancel">Cancel</string>
 
-  <string name="prompt_popup_title">温馨提示</string>
-  <string name="prompt_popup_description">亲，要不再想想?</string>
-  <string name="prompt_popup_confirm">再次查看</string>
-  <string name="prompt_popup_cancel">浏览模式</string>
+  <string name="prompt_popup_title">Reminder</string>
+  <string name="prompt_popup_description">Would you like to think about it again?</string>
+  <string name="prompt_popup_confirm">Review Again</string>
+  <string name="prompt_popup_cancel">Browse Mode</string>
 
-  <string name="screen_close_message">已关闭屏幕翻转退出功能</string>
-  <string name="screen_open_message">已成功开启</string>
-  <string name="screen_open">开启翻转退出</string>
-  <string name="screen_close">关闭翻转退出</string>
+  <string name="screen_close_message">Screen rotation exit feature has been disabled</string>
+  <string name="screen_open_message">Successfully enabled</string>
+  <string name="screen_open">Enable Rotation Exit</string>
+  <string name="screen_close">Disable Rotation Exit</string>
 
-  <string name="most_used_app">常用软件</string>
-  <string name="install_repeatedly_message">应用已安装，请不要重复添加</string>
-  <string name="install_compatible_message">发现兼容问题，请卸载并重新从应用商店安装%s或联系客服解决</string>
+  <string name="most_used_app">Frequently Used Apps</string>
+  <string name="install_repeatedly_message">App is already installed, please do not add it again</string>
+  <string name="install_compatible_message">Compatibility issue detected. Please uninstall and reinstall %s from the app store or contact support for assistance</string>
 
-  <string name="about_check_new_version">检查新版本</string>
-  <string name="about_user_agreement">用户协议</string>
-  <string name="about_policy">隐私政策</string>
-  <string name="ALREADY_NEWEST_VERSION">当前已是最新版本</string>
-  <string name="ABOUT_VERSION">版本: v%s</string>
-  <string name="new_version_popup_title">新版本提示</string>
-  <string name="new_version_upgrade_confirm">立即更新</string>
-  <string name="new_version_upgrade_cancel">暂不更新</string>
+  <string name="about_check_new_version">Check for Updates</string>
+  <string name="about_user_agreement">User Agreement</string>
+  <string name="about_policy">Privacy Policy</string>
+  <string name="ALREADY_NEWEST_VERSION">You are using the latest version</string>
+  <string name="ABOUT_VERSION">Version: v%s</string>
+  <string name="new_version_popup_title">New Version Available</string>
+  <string name="new_version_upgrade_confirm">Update Now</string>
+  <string name="new_version_upgrade_cancel">Not Now</string>
 
-  <string name="UPDATE_GO_TO_MARKET">应用商店</string>
+  <string name="UPDATE_GO_TO_MARKET">App Store</string>
 
 </resources>
